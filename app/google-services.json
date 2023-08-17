@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "316969565869",
+    "project_id": "home-furniture-fba46",
+    "storage_bucket": "home-furniture-fba46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316969565869:android:88306cae6ac6fe18df5024",
+        "android_client_info": {
+          "package_name": "com.example.homefurniture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316969565869-b0bffhjcakhju7e8hpf23ss46vcqv5lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWrWkiPwlOK6Evs6kQ1hNop_GZiDiAJqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316969565869-b0bffhjcakhju7e8hpf23ss46vcqv5lr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
